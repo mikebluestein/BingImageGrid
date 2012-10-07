@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BingImageGrid", "BingImageGrid\BingImageGrid.csproj", "{9F5F0773-4FFC-4DA8-BBE6-2ABBFF34B50E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F5F0773-4FFC-4DA8-BBE6-2ABBFF34B50E}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{9F5F0773-4FFC-4DA8-BBE6-2ABBFF34B50E}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{9F5F0773-4FFC-4DA8-BBE6-2ABBFF34B50E}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{9F5F0773-4FFC-4DA8-BBE6-2ABBFF34B50E}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{9F5F0773-4FFC-4DA8-BBE6-2ABBFF34B50E}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{9F5F0773-4FFC-4DA8-BBE6-2ABBFF34B50E}.Debug|iPhone.Build.0 = Debug|iPhone
+		{9F5F0773-4FFC-4DA8-BBE6-2ABBFF34B50E}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{9F5F0773-4FFC-4DA8-BBE6-2ABBFF34B50E}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{9F5F0773-4FFC-4DA8-BBE6-2ABBFF34B50E}.Release|iPhone.ActiveCfg = Release|iPhone
+		{9F5F0773-4FFC-4DA8-BBE6-2ABBFF34B50E}.Release|iPhone.Build.0 = Release|iPhone
+		{9F5F0773-4FFC-4DA8-BBE6-2ABBFF34B50E}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{9F5F0773-4FFC-4DA8-BBE6-2ABBFF34B50E}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = BingImageGrid\BingImageGrid.csproj
+	EndGlobalSection
+EndGlobal
